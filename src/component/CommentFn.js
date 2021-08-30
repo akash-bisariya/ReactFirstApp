@@ -1,7 +1,8 @@
-import { blogCommentData } from './blogComment'
+import { blogCommentData } from '../Data/BlogCommentData'
 function CommentFn(props) {
 
     return (
+        <div>
             <ul>
                 {
                     blogCommentData.comments.filter(
@@ -14,6 +15,7 @@ function CommentFn(props) {
                         )
                 }
             </ul>
+        </div>
     );
 
 }

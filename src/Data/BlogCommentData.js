@@ -20,13 +20,13 @@ export const blogCommentData = {
     },
     {
       "id": 103,
-      "blogId": 1,
+      "blogId": 3,
       "comment": "This is comment 4",
       "isActive": true
     },
     {
       "id": 104,
-      "blogId": 1,
+      "blogId": 3,
       "comment": "This is comment 5",
       "isActive": false
     },

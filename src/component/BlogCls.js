@@ -1,7 +1,7 @@
 import React from 'react';
 import Clock from "./Clock";
 import CommentFn from './CommentFn'
-import { blogSampleData } from './blogData'
+import { blogSampleData } from '../Data/BlogData'
 export class BlogCls extends React.Component {
 
     render() {

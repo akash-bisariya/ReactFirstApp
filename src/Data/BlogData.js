@@ -2,18 +2,18 @@ export const blogSampleData = {
     "blog": [
       {
         "id": 1,
-        "title": "Nagarro Global",
-        "description": "Nagarro Gloabl is a MNC"
+        "title": "Nagarro",
+        "description": "Nagarro is a leading provider of IT services and consulting."
       },
       {
         "id": 2,
         "title": "Nagarro Noida",
-        "description": "Nagarro is a MNC in Noida"
+        "description": "Nagarro has office in Noida."
       },
       {
         "id": 3,
         "title": "Nagarro Jaipur",
-        "description": "Nagarro is a MNC in Jaipur"
+        "description": "Nagarro has office in Jaipur."
       }
     ]
 } 
